@@ -12,3 +12,8 @@ This project presents a crossword puzzle game designed to enhance vocabulary, co
 ✔ Binary Search Tree (BST) for Fast Lookup – Enhances word search efficiency.
 ✔ Real-Time Validation – Provides immediate feedback on incorrect placements.
 ✔ Adaptive Difficulty – Users can adjust puzzle complexity.
+
+🧑‍💻 Contributors
+Sarthak
+Aditya Mahajan
+Akash
